@@ -82,7 +82,7 @@ namespace Task_1
             Console.ReadKey();
             Console.WriteLine(asp.GetHashCode());
             Console.WriteLine(asp1.GetHashCode());
-            Console.Reakdey();
+            Console.ReadKey();
         }
     }
     abstract class People
