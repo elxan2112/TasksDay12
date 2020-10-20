@@ -82,7 +82,8 @@ namespace Task_1
             Console.ReadKey();
             Console.WriteLine(asp.GetHashCode());
             Console.WriteLine(asp1.GetHashCode());
-            Console.ReadKey();
+           Console.WriteLine("Для продолжения нажмите любую клавишу!");
+                            Console.ReadKey();
         }
     }
     abstract class People
